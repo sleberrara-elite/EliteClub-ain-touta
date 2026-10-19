@@ -1,0 +1,6 @@
+{
+  "name": "دخول مدرسي رقمي – نادي النخبة Elite Club",
+  "description": "منصة تعليمية رقمية متكاملة للمؤسسات التعليمية الجزائرية - تجمع التلاميذ والأولياء والأساتذة والإدارة مع إدارة الجداول، الحضور، العلامات والرسوم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
